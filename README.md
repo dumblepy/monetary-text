@@ -71,7 +71,7 @@ https://itsumura-h.github.io/monetary-text/
 - **[第40章：時間銀行と相互扶助の通貨](chapters/時間銀行と相互扶助.md)**
 - **[第41章：アメリカの地域通貨（Ithaca HOURS／BerkShares）](chapters/アメリカの地域通貨.md)**
 - **[第42章：欧州の地域通貨（Chiemgauer/Eusko/Bristol等）](chapters/欧州の地域通貨.md)**
-- **[第43章：ドイツの地域通貨——デーマーク（Der MARK）](chapters/ドイツの地域通貨_デーマーク.md)**
+- **[第43章：ドイツの地域通貨——Chiemgauerの制度と実証](chapters/ドイツの地域通貨_デーマーク.md)**
 - **[第44章：日本の地域通貨（1999年以降）](chapters/日本の地域通貨.md)**
 
 #### 第IX部：新しい価値交換システム
